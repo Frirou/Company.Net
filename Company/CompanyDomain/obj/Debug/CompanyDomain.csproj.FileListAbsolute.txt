@@ -1,0 +1,10 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyDomain\bin\Debug\CompanyDomain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyDomain\bin\Debug\CompanyDomain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyDomain\obj\Debug\CompanyDomain.csprojResolveAssemblyReference.cache
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyDomain\obj\Debug\CompanyDomain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyDomain\obj\Debug\CompanyDomain.pdb
+C:\Users\hf55086\Desktop\Company\CompanyDomain\bin\Debug\CompanyDomain.dll
+C:\Users\hf55086\Desktop\Company\CompanyDomain\bin\Debug\CompanyDomain.pdb
+C:\Users\hf55086\Desktop\Company\CompanyDomain\obj\Debug\CompanyDomain.dll
+C:\Users\hf55086\Desktop\Company\CompanyDomain\obj\Debug\CompanyDomain.pdb
+C:\Users\hf55086\Desktop\Company\CompanyDomain\obj\Debug\CompanyDomain.csprojResolveAssemblyReference.cache

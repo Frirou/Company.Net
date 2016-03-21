@@ -1,0 +1,142 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyGUI.dll.config
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyGUI.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyGUI.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Antlr3.Runtime.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Newtonsoft.Json.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Owin.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\System.Web.Optimization.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\System.Web.Providers.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\WebGrease.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\System.Web.Optimization.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Antlr3.Runtime.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Newtonsoft.Json.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\System.Web.Providers.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\obj\Debug\CompanyGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\obj\Debug\CompanyGUI.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\obj\Debug\CompanyGUI.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyDomain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyService.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyDomain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyGUI\bin\CompanyService.pdb
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyGUI.dll.config
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyGUI.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyGUI.pdb
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Antlr3.Runtime.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyDomain.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyService.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\EntityFramework.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\EntityFramework.SqlServer.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Newtonsoft.Json.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Owin.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\System.Web.Optimization.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\System.Web.Providers.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\WebGrease.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyData.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyDomain.pdb
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyService.pdb
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Antlr3.Runtime.pdb
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Newtonsoft.Json.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\System.Web.Optimization.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\EntityFramework.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\EntityFramework.SqlServer.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\System.Web.Providers.xml
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\CompanyData.pdb
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\EntityFramework.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\obj\Debug\CompanyGUI.csprojResolveAssemblyReference.cache
+C:\Users\hf55086\Desktop\Company\CompanyGUI\obj\Debug\CompanyGUI.dll
+C:\Users\hf55086\Desktop\Company\CompanyGUI\obj\Debug\CompanyGUI.pdb

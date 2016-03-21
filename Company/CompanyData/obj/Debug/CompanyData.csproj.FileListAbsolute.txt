@@ -1,0 +1,30 @@
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\obj\Debug\CompanyData.csprojResolveAssemblyReference.cache
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\CompanyData.dll.config
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\CompanyData.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\CompanyData.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\CompanyDomain.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\EntityFramework.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\CompanyDomain.pdb
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\EntityFramework.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\obj\Debug\CompanyData.dll
+C:\Users\Ben Cheikh Mehdi\Documents\Visual Studio 2013\Projects\Company\CompanyData\obj\Debug\CompanyData.pdb
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\CompanyData.dll.config
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\CompanyData.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\CompanyData.pdb
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\CompanyDomain.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\EntityFramework.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\CompanyDomain.pdb
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\EntityFramework.xml
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\obj\Debug\CompanyData.csprojResolveAssemblyReference.cache
+C:\Users\hf55086\Desktop\Company\CompanyData\obj\Debug\CompanyData.dll
+C:\Users\hf55086\Desktop\Company\CompanyData\obj\Debug\CompanyData.pdb
+C:\Users\hf55086\Desktop\Company\CompanyData\obj\Debug\CompanyData.Migrations.init.resources
+C:\Users\hf55086\Desktop\Company\CompanyData\obj\Debug\CompanyData.csproj.GenerateResource.Cache
